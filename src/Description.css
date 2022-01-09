@@ -1,0 +1,41 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+    overflow: hidden;
+   margin: 15px auto;
+}
+
+.content {
+  width: 80%;
+  margin: 0;
+  padding: 0;
+}
+
+.desc {
+  float: left;
+  display: block;
+  width: 30%;
+  text-decoration: none;
+}
+
+.url {
+    float: left;
+    text-align: right;
+    text-decoration: none;
+}
+
+.float {
+  text-decoration: none;
+}
+
+.float-end {
+  text-decoration: none;
+}
+
